@@ -1,5 +1,6 @@
 from lambda_function import lambda_handler
 
+#testing lambda function
 def test_lambda_handler1():
     event = {
         "first_name": "Krupal",
